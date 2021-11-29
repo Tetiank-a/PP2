@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kotlinx-coroutines-jdk8">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/kotlinx-coroutines-jdk8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
